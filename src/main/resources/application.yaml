@@ -22,6 +22,6 @@ cloud:
       access-key: AKIA2CB7BWRH5X2CXF4C
       secret-key: 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
     region:
-      static: us-east-1
+      static: eu-central-1
     stack:
       auto: false
